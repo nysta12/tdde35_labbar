@@ -31,7 +31,17 @@ When your lab assistant has looked at the lab, the feedback will be put on WebRe
 Create an issue and assign your lab assistant and describe your problem. A good description will result in better help!
 If you have question about the course in general or if you can't make it to a mandatory seminar you should email your lab assistant.
 
-### Git
+## How to use git
+There are numerous guides online how to use git, but what follows is a basic guide to get started.
+
+After you have created a new gitlab repo start by:
+Cloning your project to your machine using the terminal. example: `git clone git@gitlab.ida.liu.se:aleda145/TDDD37_aleda145_aleda146.git` 
+Code!
+Add your changes to git with `git add lab1.sql` (type git status to see which files you've changed)
+Write commit message by `git commit -m "good thoughtful commit message"`
+Push the code when you're done with your coding session `git push -u origin master`
+
+
 How you use branches, commit messages etc. is not part of the examination. Do as you please, but it is recommended to write good and thoughtful commit messages for lab 4 so you don't forget what you've done. 
 
 
