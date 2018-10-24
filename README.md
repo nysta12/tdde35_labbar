@@ -36,9 +36,13 @@ There are numerous guides online how to use git, but what follows is a basic gui
 
 After you have created a new gitlab repo start by:
 Cloning your project to your machine using the terminal. example: `git clone git@gitlab.ida.liu.se:aleda145/TDDD37_aleda145_aleda146.git` 
+
 Code!
+
 Add your changes to git with `git add lab1.sql` (type git status to see which files you've changed)
+
 Write commit message by `git commit -m "good thoughtful commit message"`
+
 Push the code when you're done with your coding session `git push -u origin master`
 
 
