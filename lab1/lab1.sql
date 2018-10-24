@@ -6,7 +6,7 @@ Lab 1 report <Student_names and liu_id>
 Drop all user created tables that have been created when solving the lab
 */
 
-DROP custom_table;
+DROP TABLE custom_table;
 
 
 /*
