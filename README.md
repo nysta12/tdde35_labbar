@@ -21,7 +21,7 @@ When you have completed a lab and confirmed that everything is according to the 
 Labs that are handed in incorrectly will be denied and your assistant will ask for a correctly done hand in. 
 
 You hand in the labs by creating an issue, specifying which lab you are handing in and then assigning your lab assistant to the issue.
-![issue](clarifying_pictures/issue.jpg "issue")
+![issue](clarifying_pictures/issue.jpg =200x "issue")
 
 When your lab assistant has looked at your hand in the feedback will be put on WebReg and you will get an email to your student email about it. The issue will also be closed. 
 
