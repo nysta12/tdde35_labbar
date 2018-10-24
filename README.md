@@ -29,7 +29,7 @@ When your lab assistant has looked at your hand in the feedback will be put on W
 Create an issue and assign your lab assistant and describe your problem. A good description will result in better help!
 If you have question about the course in general or if you can't make it to a mandatory seminar you should email your lab assistant.
 
-## Git
+### Git
 How you use branches, commit messages etc. is not part of the examination. Do as you please, but it is recommended to write good and thoughtful commit messages for lab 4 so you don't forget what you've done. 
 
 
