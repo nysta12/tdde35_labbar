@@ -35,6 +35,7 @@ If you have question about the course in general or if you can't make it to a ma
 There are numerous guides online how to use git, but what follows is a basic guide to get started.
 
 After you have created a new gitlab repo start by:
+
 Cloning your project to your machine using the terminal. example: `git clone git@gitlab.ida.liu.se:aleda145/TDDD37_aleda145_aleda146.git` 
 
 Code!
