@@ -28,7 +28,8 @@ Add your lab assistant as a developer in the members tab.
 
 
 ### Handing in labs
-Labs do not need to be demonstrated during the session, just handing them in through gitlab is enough. 
+**Labs do not need to be demonstrated during the lab session**. The lab sessions are for helping, not examination. 
+
 When you have completed a lab and confirmed that everything is according to the corresponding lab instructions in gitlab you can hand it in.
 Labs that are handed in incorrectly will be denied and your assistant will ask for a correctly done hand in. 
 
