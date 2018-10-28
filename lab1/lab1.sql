@@ -11,6 +11,11 @@ Drop all user created tables that have been created when solving the lab
 DROP TABLE custom_table;
 
 
+/* Have the source scripts in the file so it is easy to recreate!*/
+
+SOURCE company_schema.sql;
+SOURCE company_data.sql;
+
 /*
 Question 0: Print a message that says "hello world"
 */
