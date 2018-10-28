@@ -56,6 +56,8 @@ Confirm that the change has actually been done in the database. i.e. in Test 13,
 This test is correct if there is no output at all. If you get output it means something is wrong. See which rows are different to the result. 
 Common errors are rounding errors and route errors
 
+
+#### Issues
 You will most likely run into problems during the coding phase! Create issues, tag your lab assistant and reference where in the code you are having problems! 
 
 ## Part 3
