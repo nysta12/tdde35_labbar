@@ -37,6 +37,8 @@ SET FOREIGN_KEY_CHECKS=0;
 DROP TABLE XXX;
 SET FOREIGN_KEY_CHECKS=1;`
 
+You will most likely run into problems during the coding phase! Create issues, tag your lab assistant and reference where in the code you are having problems! 
+
 ## Part 3
 Is just sending in the code to urkund. Change the file ending from lab4.sql to lab4.txt! Send it to urkund when you have passed lab4c) on WebReg! Details are on course website.
 
