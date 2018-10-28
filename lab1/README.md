@@ -1,7 +1,10 @@
 # Lab 1
-
-## Naming
 Name the file lab1.sql
+
+
+## Getting started
+see: https://www.ida.liu.se/~TDDD37/labs/mysqllabs/index.en.shtml
+
 
 ## The lab report
 * See the example lab1.sql file for the report structure
