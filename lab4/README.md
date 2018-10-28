@@ -27,6 +27,14 @@ The following should be handed in:
 * Answers to the non code questions as comments in the lab4.sql file, place them at the end of the file
 * An identified secondary index as a comments in the lab4.sql file (do not implement it), place at the end of the file
 
+### Code
+Please delete all your created tables and views in the beginning of the file!
+
+You can do this by temporarily disabling Foreign Keys in MySQL. Do not forget to enable it again!
+`SET FOREIGN_KEY_CHECKS=0;
+DROP TABLE XXX
+SET FOREIGN_KEY_CHECKS=1;`
+
 ## Part 3
 Is just sending in the code to urkund. Change the file ending from lab4.sql to lab4.txt! Send it to urkund when you have passed lab4c) on WebReg! Details are on course website.
 
