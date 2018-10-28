@@ -10,7 +10,7 @@ And lab 4 is a bigger project where everything you've learned in the three previ
 
 ## Gitlab
 All labs should be handed in through gitlab.ida.liu.se. 
-Create a new project in gitlab and name it "<Course Code>_<liu_id 1>_<liu_id 2>". So for the course TDDD37 and your LiU IDs are aleda145 and aleda146 name your repo "TDDD37_aleda145_aleda146".
+Create a new project in gitlab and name it "Course Code_liu_id 1_liu_id 2". So for the course TDDD37 and your LiU IDs are aleda145 and aleda146 name your repo "TDDD37_aleda145_aleda146".
 After a project has been created click "members" under options in the top right corner. 
 Add your lab assistant as a developer in the members tab.
 
