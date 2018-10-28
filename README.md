@@ -20,8 +20,17 @@ In this repo there are four folders, each corresponding to a lab.
 
 ## Gitlab
 All labs should be handed in through gitlab.ida.liu.se. 
-Create a new project in gitlab and name it "Course Code_liu_id 1_liu_id 2". So for the course TDDD37 and your LiU IDs are aleda145 and aleda146 name your repo "TDDD37_aleda145_aleda146".
-After a project has been created click "members" under options in the top right corner. 
+
+Create a new project in gitlab and name it "Course Code_liu_id 1_liu_id 2". 
+
+
+So for the course TDDD37 and your LiU IDs are aleda145 and aleda146 name your repo "TDDD37_aleda145_aleda146".
+
+After you have created your project create a folder structure like in this project, i.e. lab1, lab2, lab3, lab4. 
+
+#### Add your lab assistant
+Click "members" under options in the top right corner. 
+
 Add your lab assistant as a developer in the members tab.
 
 <img src="/clarifying_pictures/members.jpg"  width="300">
@@ -31,10 +40,14 @@ Add your lab assistant as a developer in the members tab.
 **Labs do not need to be demonstrated during the lab session**. The lab sessions are for helping, not examination. 
 
 When you have completed a lab and confirmed that everything is according to the corresponding lab instructions in gitlab you can hand it in.
+
 Labs that are handed in incorrectly will be denied and your assistant will ask for a correctly done hand in. 
 
-You hand in the labs by creating an issue, specifying which lab you are handing in and then assigning your lab assistant to the issue.
-When your lab assistant has looked at the lab, the feedback will be put on WebReg and you will get an email to your student email about it. The issue will also be closed. 
+You hand in the labs by creating an issue, specifying which lab you are handing in and then assigning your lab assistant to the issue. 
+
+When your lab assistant has looked at the lab, the feedback will be put on WebReg and you will get an email to your student email about it. 
+
+The issue will also be closed. 
 
 <img src="/clarifying_pictures/issue.jpg"  width="300">
 
