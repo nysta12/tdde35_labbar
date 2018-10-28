@@ -31,6 +31,7 @@ The following should be handed in:
 Please delete all your created tables and views in the beginning of the file!
 
 You can do this by temporarily disabling Foreign Keys in MySQL. Do not forget to enable it again!
+
 `SET FOREIGN_KEY_CHECKS=0;
 DROP TABLE XXX
 SET FOREIGN_KEY_CHECKS=1;`
