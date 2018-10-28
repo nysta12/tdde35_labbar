@@ -11,7 +11,7 @@ Lab 3 is about functional dependencies.
 And lab 4 is a bigger project where everything you've learned in the three previous labs will be used.
 
 ## Lab instructions
-The instructions for the labs are on the course webpage.
+The lab compendium is available on the course webpage. 
 
 In this repo there are four folders, each corresponding to a lab.
 
