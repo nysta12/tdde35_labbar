@@ -15,4 +15,13 @@ DROP TABLE custom_table;
 Question 0: Print a message that says "hello world"
 */
 
-SELECT 'hello world!' AS 'message'
+SELECT 'hello world!' AS 'message';
+
+/* Show the output for every question.
++--------------+
+| message      |
++--------------+
+| hello world! |
++--------------+
+1 row in set (0.00 sec)
+*/ 
