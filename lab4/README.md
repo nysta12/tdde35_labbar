@@ -38,6 +38,24 @@ SET FOREIGN_KEY_CHECKS=0;
 DROP TABLE XXX;
 SET FOREIGN_KEY_CHECKS=1;`
 
+#### The test scripts
+
+**Question 3** 
+
+Confirm that you have 208 flights in your database
+
+
+**Question 6**
+
+Confirm that the output is correct. 
+
+Confirm that the change has actually been done in the database. i.e. in Test 13, confirm that the reservation was actually delete. 
+
+
+**Question 7**
+This test is correct if there is no output at all. If you get output it means something is wrong. See which rows are different to the result. 
+Common errors are rounding errors and route errors
+
 You will most likely run into problems during the coding phase! Create issues, tag your lab assistant and reference where in the code you are having problems! 
 
 ## Part 3
