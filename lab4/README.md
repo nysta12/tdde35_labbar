@@ -26,6 +26,7 @@ The following should be handed in:
 * Project code as a file named lab4.sql
 * Answers to the non code questions as comments in the lab4.sql file, place them at the end of the file
 * An identified secondary index as a comments in the lab4.sql file (do not implement it), place at the end of the file
+* A file named q10b.sql that is your modified version of Question10MakeBooking.sql
 
 ### Code
 Please delete all your created tables and views in the beginning of the file!
