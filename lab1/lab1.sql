@@ -8,7 +8,7 @@ All non code should be within SQL-comments /* like this */
 Drop all user created tables that have been created when solving the lab
 */
 
-DROP TABLE custom_table;
+DROP TABLE IF EXISTS custom_table CASCADE;
 
 
 /* Have the source scripts in the file so it is easy to recreate!*/
