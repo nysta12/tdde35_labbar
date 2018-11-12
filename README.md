@@ -16,7 +16,17 @@ The lab compendium is available on the course webpage.
 In this repo there are four folders, each corresponding to a lab.
 
 **Check the folders for hand in instructions for each lab**
+Lab 1: 
+https://gitlab.ida.liu.se/aleda145/database_technology/tree/master/lab1
 
+Lab2: 
+https://gitlab.ida.liu.se/aleda145/database_technology/tree/master/lab2
+
+Lab3:
+https://gitlab.ida.liu.se/aleda145/database_technology/tree/master/lab3
+
+Lab4: 
+https://gitlab.ida.liu.se/aleda145/database_technology/tree/master/lab4
 
 ## Gitlab
 All labs should be handed in through gitlab.ida.liu.se. 
