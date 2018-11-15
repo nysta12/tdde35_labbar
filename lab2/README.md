@@ -10,6 +10,15 @@ Place these three file into the gitlab folder.
 Notice that this folder contains an XML file of the EER-diagram used as a starting point for this lab assignment. Download this file and upload it to [draw.io](https://www.draw.io).
 Next, make your changes in draw.io and when you are finished, export the diagram as a JPG file which you add it to your lab report.
 
+If downloading it doesn't work to the following: 
+1. copy `https://gitlab.ida.liu.se/aleda145/database_technology/raw/7b18f55f9a847a60e2e216c05faf934bdcf1136b/lab2/lab2_ER.xml`
+2. go to draw.io website, press create new diagram
+3. click "From template URL"
+4. Paste the URL
+5. Name the file ER.xml and save it where you want
+6. Done!
+7. 
+
 
 ## Relational Model (RM) 
 In addition to the XML file with the EER-diagram, this folder contains another XML file with an initial version of a diagram that represents the relational schema.
