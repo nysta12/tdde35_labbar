@@ -17,7 +17,6 @@ If downloading it doesn't work to the following:
 4. Paste the URL
 5. Name the file ER.xml and save it where you want
 6. Done!
-7. 
 
 
 ## Relational Model (RM) 
