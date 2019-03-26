@@ -19,12 +19,23 @@ This repository contains four folders, each corresponding to a lab.
 ## Getting started
 
 ### 1. Fork this repository
+
 Press the "Fork" button on the top of this page to copy this repository to your account.
 
 <img src="/clarifying_pictures/fork_image.png"  width="300">
+---
 
+Then choose your account on this page:
 
-#### Add your lab assistant
+<img src="/clarifying_pictures/fork2_image.png"  width="300">
+---
+
+After successfully forking the repository, you'll see this message:
+
+<img src="/clarifying_pictures/fork3_image.png"  width="300">
+---
+
+### 2. Add your lab assistant
 Click "members" under options in the top right corner. 
 
 Add your lab assistant as a developer in the members tab.
