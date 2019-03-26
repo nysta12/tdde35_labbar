@@ -1,43 +1,27 @@
 # Database Technology course
-Hi and welcome to the course in databases!
-This repo is structured like the labs should be handed in.
-If any instructions are unclear please create an Issue and assign Alexander Dahl (aleda145) to it.
+Welcome to the Database Technology course!
+
 
 ## The labs
-This course has 4 labs. The first two are introductions to MySQL and database design.
+This course has 4 labs:
 
-Lab 3 is about functional dependencies.
-
-And lab 4 is a bigger project where everything you've learned in the three previous labs will be used.
+* Lab 1 and 2 introduce MySQL and database design
+* Lab 3 is about functional dependencies
+* Lab 4 is a bigger project
 
 ## Lab instructions
 The lab compendium is available on the course webpage. 
 
-In this repo there are four folders, each corresponding to a lab.
+This repository contains four folders, each corresponding to a lab.
 
 **Check the folders for hand in instructions for each lab**
 
-Lab 1: 
-https://gitlab.ida.liu.se/aleda145/database_technology/tree/master/lab1
+## Getting started
 
-Lab2: 
-https://gitlab.ida.liu.se/aleda145/database_technology/tree/master/lab2
-
-Lab3:
-https://gitlab.ida.liu.se/aleda145/database_technology/tree/master/lab3
-
-Lab4: 
-https://gitlab.ida.liu.se/aleda145/database_technology/tree/master/lab4
-
-## Gitlab
-All labs should be handed in through gitlab.ida.liu.se. 
-
-Create a new project in gitlab and name it "Course Code_liu_id 1_liu_id 2". 
+### 1. Fork this repository
+Press the "Fork" button on the top of this page to copy this repository to your account.
 
 
-So for the course TDDD37 and your LiU IDs are aleda145 and aleda146 name your repo "TDDD37_aleda145_aleda146".
-
-After you have created your project create a folder structure like in this project, i.e. lab1, lab2, lab3, lab4. 
 
 #### Add your lab assistant
 Click "members" under options in the top right corner. 
