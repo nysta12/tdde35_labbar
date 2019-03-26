@@ -44,9 +44,10 @@ Then do a lab according to the provided instructions.
 ### 3. Handing in labs
 
 After completing an assignment, edit/upload the files to your GitLab repository so that your lab assistant can check your work online.
+
 To submit a lab, email a link of your repository to your lab assistant, under a subject: **"CourseCode_year_userName1_userName2_labNumber"** (e.g. TDDD37_2019_hrsdv94_dgjjtd92_lab2)
 
 
-**Labs do not need to be demonstrated during the lab session**. 
-
 Labs that are handed in incorrectly will be rejected and your assistant will ask you to correct the assignment. 
+
+**Labs do not need to be demonstrated during the lab session**.
