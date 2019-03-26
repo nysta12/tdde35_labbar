@@ -21,6 +21,7 @@ This repository contains four folders, each corresponding to a lab.
 ### 1. Fork this repository
 Press the "Fork" button on the top of this page to copy this repository to your account.
 
+<img src="/clarifying_pictures/fork_image.png"  width="300">
 
 
 #### Add your lab assistant
