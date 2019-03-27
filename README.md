@@ -36,9 +36,11 @@ After successfully forking the repository, you will see a message such as the fo
 Your forked repository has to be made private so that others do not have access to it.
 
 Find the "Setting" button on the left of this page, and click 'General' to change the permission of your project.
+
 <img src="/clarifying_pictures/change_permission1.png"  width="500">
 
 Expand 'Permissions' and set 'Project visibility' as 'Private', then save changes.
+
 <img src="/clarifying_pictures/change_permission2.png"  width="500">
 
 ### 3. Provide access to your fork for your lab partner and for your lab assistant
@@ -47,7 +49,7 @@ You could find 'Member' option under 'Setting' on the left of this page
 
 <img src="/clarifying_pictures/add_member1.png"  width="500">
 
-Follow the step as the image to provide access to your lab partner and lab assistant
+Follow the steps as shown in the image below to provide access to your lab partner and lab assistant
 
 <img src="/clarifying_pictures/add_member2.png"  width="500">
 
@@ -56,13 +58,21 @@ Follow the step as the image to provide access to your lab partner and lab assis
 
 You need to download the content of your repository.
 
+<img src="/clarifying_pictures/download.png"  width="500">
+
 After you have the content of your repository on your computer, you can start working on the lab assignments. Notice that the repository contains four folders, one for each of the four lab assignments. **Check these folders for more detailed instructions about what needs to be handed in for the corresponding lab assignment.**
 
 ### 5. Handing in labs
 
 After completing an assignment, edit/upload the files to your GitLab repository so that your lab assistant can check your work online.
 
+If there exists an example report in the directory (e.g. lab1), please open and edit the file:
+
 <img src="/clarifying_pictures/edit.png"  width="500">
+
+If there is no file in the directory (e.g. lab4), please upload files from your computer:
+
+<img src="/clarifying_pictures/upload.png"  width="500">
 
 To submit your solution for a lab assignment, email a link of your repository to your lab assistant; the subject for that email should adhere to the following pattern: **"CourseCode_year_userName1_userName2_labNumber"** (e.g., TDDD37_2019_hrsdv94_dgjjtd92_lab2).
 
