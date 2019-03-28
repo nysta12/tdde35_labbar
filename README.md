@@ -1,87 +1,82 @@
 # Database Technology course
-Hi and welcome to the course in databases!
-This repo is structured like the labs should be handed in.
-If any instructions are unclear please create an Issue and assign Alexander Dahl (aleda145) to it.
+Welcome to the Database Technology course!
 
-## The labs
-This course has 4 labs. The first two are introductions to MySQL and database design.
+This course has 4 lab assignments:
 
-Lab 3 is about functional dependencies.
+* Lab 1 introduces SQL
+* Lab 2 introduces database design
+* Lab 3 is about functional dependencies and normalization
+* Lab 4 is a bigger project in which you will create a database for a hypothetical airline company
 
-And lab 4 is a bigger project where everything you've learned in the three previous labs will be used.
+Please find the instructions for these assignments on the course Website.
 
-## Lab instructions
-The lab compendium is available on the course webpage. 
+We want you to manage your solutions to the lab assignments in a gitlab repository; that repository should be a *private* fork of the repository [olaha93/database_technology](https://gitlab.ida.liu.se/olaha93/database_technology). A fork is essentially a copy of the repository that goes under your own account.
 
-In this repo there are four folders, each corresponding to a lab.
+In the following, we describe the process of i) creating such a forked repository and ii) handing in your solutions via that repository.
 
-**Check the folders for hand in instructions for each lab**
+### 1. Fork this repository
 
-Lab 1: 
-https://gitlab.ida.liu.se/aleda145/database_technology/tree/master/lab1
+Press the "Fork" button on the top of this page to copy this repository to your account.
 
-Lab2: 
-https://gitlab.ida.liu.se/aleda145/database_technology/tree/master/lab2
+<img src="/clarifying_pictures/fork_image.png"  width="500">
+---
 
-Lab3:
-https://gitlab.ida.liu.se/aleda145/database_technology/tree/master/lab3
+Then, on the next page that pops up, choose your account:
 
-Lab4: 
-https://gitlab.ida.liu.se/aleda145/database_technology/tree/master/lab4
+<img src="/clarifying_pictures/fork2_image.png"  width="500">
+---
 
-## Gitlab
-All labs should be handed in through gitlab.ida.liu.se. 
+After successfully forking the repository, you will see a message such as the following:
 
-Create a new project in gitlab and name it "Course Code_liu_id 1_liu_id 2". 
+<img src="/clarifying_pictures/fork3_image.png"  width="500">
+---
 
+### 2. Make your fork private
 
-So for the course TDDD37 and your LiU IDs are aleda145 and aleda146 name your repo "TDDD37_aleda145_aleda146".
+Your forked repository has to be made private so that others do not have access to it.
 
-After you have created your project create a folder structure like in this project, i.e. lab1, lab2, lab3, lab4. 
+Find the "Settings" button on the left of the page about your forked repository, and click 'General' to change the permissions for your project.
 
-#### Add your lab assistant
-Click "members" under options in the top right corner. 
+<img src="/clarifying_pictures/change_permission1.png"  width="500">
 
-Add your lab assistant as a developer in the members tab.
+Expand 'Permissions', set 'Project visibility' to 'Private', and then save changes.
 
-<img src="/clarifying_pictures/members.jpg"  width="300">
+<img src="/clarifying_pictures/change_permission2.png"  width="500">
 
+### 3. Provide access to your fork for your lab partner and for your lab assistant
 
-### Handing in labs
-**Labs do not need to be demonstrated during the lab session**. The lab sessions are for helping, not examination. 
+Find the "Settings" button on the left of the page about your forked repository, and click 'Members' to add people who can access your repository.
 
-When you have completed a lab and confirmed that everything is according to the corresponding lab instructions in gitlab you can hand it in.
+<img src="/clarifying_pictures/add_member1.png"  width="500">
 
-Labs that are handed in incorrectly will be denied and your assistant will ask for a correctly done hand in. 
+Follow the steps as shown in the screenshot below to provide access to your lab partner and to your lab assistant
 
-You hand in the labs by creating an issue, specifying which lab you are handing in and then assigning your lab assistant to the issue. 
-
-When your lab assistant has looked at the lab, the feedback will be put on WebReg and you will get an email to your student email about it. 
-
-The issue will also be closed. 
-
-<img src="/clarifying_pictures/issue.jpg"  width="300">
-
-### When you need help
-Create an issue and assign your lab assistant and describe your problem. A good description will result in better help!
-If you have question about the course in general or if you can't make it to a mandatory seminar you should email your lab assistant.
-
-## How to use git
-There are numerous guides online how to use git, but what follows is a basic guide to get started.
-
-After you have created a new gitlab repo start by:
-
-Cloning your project to your machine using the terminal. example: `git clone git@gitlab.ida.liu.se:aleda145/TDDD37_aleda145_aleda146.git` 
-
-Code!
-
-Add your changes to git with `git add lab1.sql` (type git status to see which files you've changed)
-
-Write commit message by `git commit -m "good thoughtful commit message"`
-
-Push the code when you're done with your coding session `git push -u origin master`
+<img src="/clarifying_pictures/add_member2.png"  width="500">
 
 
-How you use branches, commit messages etc. is not part of the examination. Do as you please, but it is recommended to write good and thoughtful commit messages for lab 4 so you don't forget what you've done. 
+### 4. Work on the lab assignments
+
+You may want to download the content of your repository to the computer at which you are working on the lab assignments. If you are familiar with git, this may be done by cloning the repository on the computer. Another, perhaps easier alternative is to simply use the download option on the page about your repository as illustrated in the following screenshot; this option allows you to download a package that you have to unpack.
+
+<img src="/clarifying_pictures/download.png"  width="500">
+
+After you have the content of your repository on your computer, you can start working on the lab assignments. Notice that the repository contains four folders, one for each of the four lab assignments. **Check these folders for more detailed instructions about what needs to be handed in for the corresponding lab assignment.**
+
+### 5. Handing in labs
+
+After completing an assignment, edit/upload the files to your GitLab repository so that your lab assistant can check your work online.
+
+If there exists an example report in the directory (e.g., lab1.sql in the directory lab1), you may open and edit the file in the browser as illustrated in the following screenshot (of course, you may also use git to push updates to this file from your computer).
+
+<img src="/clarifying_pictures/edit.png"  width="500">
+
+If there is no such file in the directory (e.g., lab4), you may upload files from your computer into the directory as the following screenshot illustrates (or, again, you may use git).
+
+<img src="/clarifying_pictures/upload.png"  width="500">
+
+To submit your solution for a lab assignment, email a link of your repository to your lab assistant; the subject for that email should adhere to the following pattern: **"CourseCode_year_userName1_userName2_labNumber"** (e.g., TDDD37_2019_hrsdv94_dgjjtd92_lab2).
 
 
+Labs that are handed in incorrectly will be rejected and your assistant will ask you to correct the assignment. 
+
+**Labs do not need to be demonstrated during the lab session**.
