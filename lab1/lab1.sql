@@ -17,7 +17,7 @@ SOURCE company_schema.sql;
 SOURCE company_data.sql;
 
 /*
-Question 0: Print a message that says "hello world"
+Question 1: Print a message that says "hello world"
 */
 
 SELECT 'hello world!' AS 'message';
