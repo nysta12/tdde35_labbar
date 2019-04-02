@@ -14,6 +14,10 @@ We want you to manage your solutions to the lab assignments in a gitlab reposito
 
 In the following, we describe the process of i) creating such a forked repository and ii) handing in your solutions via that repository.
 
+## Getting started
+
+### 0. Log into GitLab with your LiU-ID
+
 ### 1. Fork this repository
 
 Press the "Fork" button on the top of this page to copy this repository to your account.
