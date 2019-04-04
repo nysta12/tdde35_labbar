@@ -1,7 +1,8 @@
 /*
 Lab 1 report <Student_names and liu_id>
+*/
 
-All non code should be within SQL-comments /* like this */ 
+/* All non code should be within SQL-comments like this */ 
 
 
 /*
