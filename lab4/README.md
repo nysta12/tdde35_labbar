@@ -10,10 +10,14 @@ For the first part the following should be handed in:
 * Functional dependencies for all relations as .txt or .pdf
 
 **Please mark your courseCode_GroupNumber, name, and liU-id on the file (the GroupNumber can be found on Webreg, where you registered the lab)**
+
 e.g.,
+
 TDDD37_GroupA1:
-XXXXX XXXXX(liU-id)
-XXXXX XXXXX(liU-id)
+
+YOURNAME(liU-id)
+
+XXXXXXXX(liU-id)
 
 ### EER-diagram and Relational Model
 Same as in lab 2, do it in draw.io and add it to gitlab
