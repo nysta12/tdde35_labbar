@@ -5,9 +5,15 @@ Lab 4 is a big project that contains different parts.
 ## Part 1
 For the first part the following should be handed in:
 
-* EER-diagram as a jpg
-* Relational Model as a jpg 
+* EER-diagram as a .pdf file
+* Relational Model as a .pdf file
 * Functional dependencies for all relations as .txt or .pdf
+
+**Please mark your courseCode_GroupNumber, name, and liU-id on the file (the GroupNumber can be found on Webreg, where you registered the lab)**
+e.g.,
+TDDD37_GroupA1:
+XXXXX XXXXX(liU-id)
+XXXXX XXXXX(liU-id)
 
 ### EER-diagram and Relational Model
 Same as in lab 2, do it in draw.io and add it to gitlab
@@ -20,8 +26,8 @@ This is the coding phase of the project. Do not start coding until your EER and 
 
 The following should be handed in: 
 
-* EER-diagram as jpg
-* Relational Model as jpg
+* EER-diagram as .pdf
+* Relational Model as .pdf
 * Functional dependencies for all relations as .txt or .pdf
 * Project code as a file named lab4.sql
 * Answers to the non code questions as comments in the lab4.sql file, place them at the end of the file
