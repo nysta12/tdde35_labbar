@@ -7,7 +7,7 @@ see: https://www.ida.liu.se/~TDDD37/labs/mysqllabs/index.en.shtml
 
 
 ## The lab report
-* See the example *lab1.sql* file for the report structure
+* See the example **lab1.sql** file for the report structure
 
 * The questions should be answered in chronological order. 
 r
