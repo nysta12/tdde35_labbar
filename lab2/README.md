@@ -19,7 +19,7 @@ If downloading it doesn't work to the following:
 2. draw your ER diagram using the shapes in the drop-down menu 'Entity relation'
 3. name the file ER.xml and save it where you want
 
-##Text file
+## Text file
 If you make choices and add constraints for aspects that are not explicitly specified in the given data
 requirements, clearly write down the choices and assumptions that you make.
 
