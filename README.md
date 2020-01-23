@@ -47,7 +47,7 @@ Expand 'Permissions', set 'Project visibility' to 'Private', and then save chang
 
 <img src="/clarifying_pictures/change_permission2.png"  width="500">
 
-### 3. Provide access to your fork for your lab partner and for your lab assistant
+### 3. **Provide access to your fork for your lab partner and for your lab assistant**
 
 Find the "Settings" button on the left of the page about your forked repository, and click 'Members' to add people who can access your repository.
 
@@ -78,7 +78,7 @@ If there is no such file in the directory (e.g., lab4), you may upload files fro
 
 <img src="/clarifying_pictures/upload.png"  width="500">
 
-To submit your solution for a lab assignment, email a link of your repository to your lab assistant; the subject for that email should adhere to the following pattern: **"CourseCode_year_userName1_userName2_labNumber"** (e.g., TDDD37_2019_hrsdv94_dgjjtd92_lab2).
+To submit your solution for a lab assignment, email a link of your repository to your lab assistant; the subject for that email should adhere to the following pattern: **"CourseCode_GroupNr_userName1_userName2_labNumber"** (e.g., TDDD37_A1_hrsdv94_dgjjtd92_lab2).
 
 
 Labs that are handed in incorrectly will be rejected and your assistant will ask you to correct the assignment. 
