@@ -10,7 +10,7 @@ This course has 4 lab assignments:
 
 Please find the instructions for these assignments on the course Website.
 
-We want you to manage your solutions to the lab assignments in a gitlab repository; that repository should be a *private* fork of the repository [olaha93/database_technology](https://gitlab.ida.liu.se/olaha93/database_technology). A fork is essentially a copy of the repository that goes under your own account.
+We want you to manage your solutions to the lab assignments in a gitlab repository; that repository should be a **private** fork of the repository [olaha93/database_technology](https://gitlab.ida.liu.se/olaha93/database_technology). A fork is essentially a copy of the repository that goes under your own account.
 
 In the following, we describe the process of i) creating such a forked repository and ii) handing in your solutions via that repository.
 
@@ -35,9 +35,9 @@ After successfully forking the repository, you will see a message such as the fo
 <img src="/clarifying_pictures/fork3_image.png"  width="500">
 ---
 
-### 2. Make your fork private
+### 2. Make your fork private!
 
-Your forked repository has to be made private so that others do not have access to it.
+Your forked repository **must be made private** so that others do not have access to it.
 
 Find the "Settings" button on the left of the page about your forked repository, and click 'General' to change the permissions for your project.
 
@@ -47,13 +47,13 @@ Expand 'Permissions', set 'Project visibility' to 'Private', and then save chang
 
 <img src="/clarifying_pictures/change_permission2.png"  width="500">
 
-### 3. **Provide access to your fork for your lab partner and for your lab assistant**
+### 3. **Provide "Developer" access to your fork for your lab partner and for your lab assistant**
 
 Find the "Settings" button on the left of the page about your forked repository, and click 'Members' to add people who can access your repository.
 
 <img src="/clarifying_pictures/add_member1.png"  width="500">
 
-Follow the steps as shown in the screenshot below to provide access to your lab partner and to your lab assistant
+Follow the steps as shown in the screenshot below to provide **"Developer"** access to your lab partner and to your lab assistant
 
 <img src="/clarifying_pictures/add_member2.png"  width="500">
 
