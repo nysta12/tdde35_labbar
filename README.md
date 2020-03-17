@@ -4,15 +4,15 @@ Welcome to the repository of the Computer Networks courses!
 [TDDE35: Large-Scale Distributed Systems and Networks](https://www.ida.liu.se/~TDDE35/labs/)
 
 This course has 4 lab assignments:
-* [Assignment 1: Wireshark lab. Getting started + HTTP](https://gitlab.liu.se/nikko22/networks/lab1-wireshark)
-* [Assignment 2: Net Ninny. A Web Proxy Based Service](https://gitlab.liu.se/nikko22/networks/lab2-proxy)
-* [Assignment 3: Transmission Control Protocol (TCP)](https://gitlab.liu.se/nikko22/networks/lab3-tcp)
-* [Assignment 4: Distance Vector Routing](https://gitlab.liu.se/nikko22/networks/lab4-routing)
+* [Assignment 1: Wireshark lab. Getting started + HTTP](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab1-wireshark)
+* [Assignment 2: Net Ninny. A Web Proxy Based Service](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab2-proxy)
+* [Assignment 3: Transmission Control Protocol (TCP)](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab3-tcp)
+* [Assignment 4: Distance Vector Routing](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab4-routing)
 
 **Read this file till the end! Assignments that are handed in incorrectly will be automatically rejected.**
 
 Assignment instructions could be found on the web-page of your course code (e.g. [TDDE35](https://www.ida.liu.se/~TDDE35/labs/)).
-Additional submission and report requirements are located in the respected folders (e.g. [networks/lab1-wireshark](https://gitlab.liu.se/nikko22/networks/lab1-wireshark), [networks/lab2-proxy](https://gitlab.liu.se/nikko22/networks/lab2-proxy), etc.).
+Additional submission and report requirements are located in the respected folders (e.g. [networks/lab1-wireshark](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab1-wireshark), [networks/lab2-proxy](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab2-proxy), etc.).
 
 
 Submit solutions and reports into **your gitlab repository, which must be a *private* fork of the repository [nikko22/networks](https://gitlab.liu.se/nikko22/networks)**. A fork is essentially a copy of a repository that is cloned into your own account.
