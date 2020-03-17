@@ -54,7 +54,7 @@ Expand 'Permissions', set 'Project visibility' to 'Private', and then save chang
 
 <img src="/pictures/change_permission2.png"  width="500">
 
-### 3. **Provide "Maintainer" access to your fork for your lab partner and for your lab assistant**
+### 3. **Provide "Maintainer" access to your partner and your lab assistant**
 
 Find the "Settings" button on the left of the page about your forked repository, and click 'Members' to add people who can access your repository.
 
