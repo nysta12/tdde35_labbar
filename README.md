@@ -1,7 +1,7 @@
 # Computer Networks
 Welcome to the repository of the Computer Networks courses!
 
-[TDDE35: Large-Scale Distributed Systems and Networks](https://www.ida.liu.se/~TDDE35/labs/)
+<!---[TDDE35: Large-Scale Distributed Systems and Networks](https://www.ida.liu.se/~TDDE35/labs/)-->
 
 This course has 4 lab assignments:
 * [Assignment 1: Wireshark lab. Getting started + HTTP](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab1-wireshark)
@@ -11,7 +11,7 @@ This course has 4 lab assignments:
 
 **Read this file till the end! Assignments that are handed in incorrectly will be automatically rejected.**
 
-Assignment instructions could be found on the web-page of your course code (e.g. [TDDE35](https://www.ida.liu.se/~TDDE35/labs/)).
+Assignment instructions can be found on the web-page of your course code (e.g. [TDDE35](https://www.ida.liu.se/~TDDE35/labs/)).
 Additional submission and report requirements are located in the respected folders (e.g. [networks/lab1-wireshark](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab1-wireshark), [networks/lab2-proxy](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab2-proxy), etc.).
 
 
