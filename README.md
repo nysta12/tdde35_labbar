@@ -17,7 +17,7 @@ Additional submission and report requirements are located in subfolders (e.g. [n
 
 Submit solutions and reports using **your gitlab repository, which must be a *private* fork of the repository [nikko22/networks](https://gitlab.liu.se/nikko22/networks)**. A fork is essentially a copy of a repository that is cloned into your own account.
 
-These instructions describe the process of (i) creating such a forked repository and (ii) handing in solutions via the repository.
+These instructions describe how to (i) create a forked repository and (ii) hand-in assignments via the repository and email.
 
 Also, see [Virtual lab sessions](https://gitlab.liu.se/nikko22/networks/-/issues).
 
