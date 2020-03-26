@@ -12,7 +12,7 @@ This course has 4 lab assignments:
 **Read this file till the end! Assignments that are handed in incorrectly will be automatically rejected.**
 
 Assignment instructions can be found on the web-page for your course code (e.g. [TDDE35](https://www.ida.liu.se/~TDDE35/labs/)).
-Additional submission and report requirements are located in the respected folders (e.g. [networks/lab1-wireshark](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab1-wireshark), [networks/lab2-proxy](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab2-proxy), etc.).
+Additional submission and report requirements are located in subfolders (e.g. [networks/lab1-wireshark](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab1-wireshark), [networks/lab2-proxy](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab2-proxy), etc.).
 
 
 Submit solutions and reports using **your gitlab repository, which must be a *private* fork of the repository [nikko22/networks](https://gitlab.liu.se/nikko22/networks)**. A fork is essentially a copy of a repository that is cloned into your own account.
