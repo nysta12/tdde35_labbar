@@ -89,7 +89,8 @@ Or, you can also upload files to the folders of your repository:
 > <img src="/pictures/upload.png"  width="500"> 
 ---
 ### 6. Submit by sending an email with a link to the repository
-To submit a solution to your lab assignment, *email a link of your repository* to your lab assistant. The subject of the email letter *must* adhere to the following pattern: 
+To submit a solution to your lab assignment, *email an address of your repository* to your lab assistant. The subject of the email letter *must* adhere to the following pattern: 
 * **CourseCode_Year_labNumber_userName1_userName2** 
 (e.g., TDDE35_2020_lab4_hrsdv94_dgjjt92).
 
+> <img src="/pictures/email.png"  width="500"> 
