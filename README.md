@@ -69,7 +69,7 @@ Provide **"Maintainer"** access to your lab partner and to your lab assistant
 > <img src="/pictures/add_member2.png"  width="500"> 
 ---
 
-### 4. Work on the lab assignments
+### 4. Work on the assignments
 
 You may want to download the content of your repository to work on the lab assignments. If you are familiar with [git](https://en.wikipedia.org/wiki/Git), then you can use it to work with your forked repository. Otherwise, it is perhaps easier to use the download option on the main page of the repository.
 
@@ -80,7 +80,7 @@ After downloading the contents of your repository, you can start working on the 
 ### 5. Place your code and a report into the forked repository
 After completing an assignment, edit/upload the files to your forked repository.
 
-If there exists an example report in a lab folder, then you can edit such file in your browser:
+If there exists an example report in a lab folder, then you can edit it in your browser:
 
 > <img src="/pictures/edit.png"  width="500"> 
 ---
