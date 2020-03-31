@@ -88,7 +88,13 @@ Or, you can also upload files to the folders of your repository:
 
 > <img src="/pictures/upload.png"  width="500"> 
 ---
-### 6. Submit by sending an email with a link to your repository
+
+### 6. Demonstrate your assignment during a lab session
+See [Virtual lab sessions](https://gitlab.liu.se/nikko22/networks/-/issues).
+
+---
+
+### 7. Submit by sending an email with a link to your repository
 To submit an assignment, *email an address of your repository* to your lab assistant. The subject of the email letter *must* adhere to the following pattern: 
 * **CourseCode_Year_labNumber_userName1_userName2** 
 (e.g., TDDE35_2020_lab4_hrsdv94_dgjjt92).
