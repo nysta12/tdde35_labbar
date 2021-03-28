@@ -4,29 +4,29 @@ Welcome to the repository of the *Computer Networks* courses!
 <!---[TDDE35: Large-Scale Distributed Systems and Networks](https://www.ida.liu.se/~TDDE35/labs/)-->
 
 This course has 4 lab assignments:
-* [Assignment 1: Wireshark lab. Getting started + HTTP](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab1-wireshark)
-* [Assignment 2: Net Ninny. A Web Proxy Based Service](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab2-proxy)
-* [Assignment 3: Transmission Control Protocol (TCP)](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab3-tcp)
-* [Assignment 4: Distance Vector Routing](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab4-routing)
+* [Assignment 1: Wireshark lab. Getting started + HTTP](https://gitlab.liu.se/lemi44/networks/-/tree/master/lab1-wireshark)
+* [Assignment 2: Net Ninny. A Web Proxy Based Service](https://gitlab.liu.se/lemi44/networks/-/tree/master/lab2-proxy)
+* [Assignment 3: Transmission Control Protocol (TCP)](https://gitlab.liu.se/lemi44/networks/-/tree/master/lab3-tcp)
+* [Assignment 4: Distance Vector Routing](https://gitlab.liu.se/nikko22/lemi44/-/tree/master/lab4-routing)
 
 **Read this file till the end! Assignments that are handed in incorrectly will be automatically rejected.**
 
 Assignment instructions can be found on the web-page for your course code (e.g. [TDDE35](https://www.ida.liu.se/~TDDE35/labs/)).
-Additional submission and report requirements are located in subfolders (e.g. [networks/lab1-wireshark](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab1-wireshark), [networks/lab2-proxy](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab2-proxy), etc.).
+Additional submission and report requirements are located in subfolders (e.g. [networks/lab1-wireshark](https://gitlab.liu.se/lemi44/networks/-/tree/master/lab1-wireshark), [networks/lab2-proxy](https://gitlab.liu.se/lemi44/networks/-/tree/master/lab2-proxy), etc.).
 
 
-Submit solutions and reports using **your gitlab repository, which must be a *private* fork of the repository [nikko22/networks](https://gitlab.liu.se/nikko22/networks)**. A fork is essentially a copy of a repository that is cloned into your own account.
+Submit solutions and reports using **your gitlab repository, which must be a *private* fork of the repository [lemi44/networks](https://gitlab.liu.se/lemi44/networks)**. A fork is essentially a copy of a repository that is cloned into your own account.
 
 These instructions describe how to (i) create a forked repository and (ii) hand-in assignments via the repository and email.
 
-Also, see [Virtual lab sessions](https://gitlab.liu.se/nikko22/networks/-/issues).
+Also, see [Virtual lab sessions](https://gitlab.liu.se/lemi44/networks/-/issues/1).
 
 
 ## Getting started
 
 ### 0. Log into gitlab.liu.se with your LiU-ID
 
-### 1. Fork the repository [nikko22/networks](https://gitlab.liu.se/nikko22/networks)
+### 1. Fork the repository [lemi44/networks](https://gitlab.liu.se/lemi44/networks)
 
 Press the "Fork" button on the top of this page to copy this repository to your account.
 
@@ -90,7 +90,7 @@ Or, you can also upload files to the folders of your repository:
 ---
 
 ### 6. Demonstrate your assignment during a lab session
-See [Virtual lab sessions](https://gitlab.liu.se/nikko22/networks/-/issues).
+See [Virtual lab sessions](https://gitlab.liu.se/lemi44/networks/-/issues/1).
 
 ---
 
