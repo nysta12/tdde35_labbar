@@ -1,5 +1,8 @@
 # Computer Networks
 
+Zoom link: ...
+Passcode: ...
+
 Welcome to the repository of the *TDDE35: Large-Scale Distributed Systems and Networks* courses!
 
 <!---[TDDE35: Large-Scale Distributed Systems and Networks](https://www.ida.liu.se/~TDDE35/labs/)-->
