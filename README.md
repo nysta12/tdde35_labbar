@@ -1,7 +1,8 @@
 # Computer Networks
 
-Zoom link: ...
-Passcode: ...
+Zoom link: https://liu-se.zoom.us/j/6203044806
+
+Passcode: 345609
 
 Welcome to the repository of the *TDDE35: Large-Scale Distributed Systems and Networks* courses!
 
