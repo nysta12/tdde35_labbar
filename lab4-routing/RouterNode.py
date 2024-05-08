@@ -54,10 +54,10 @@ class RouterNode():
 
         #check if the cost has been updated
         if not self.costs == cost:
-            self.update_neighbour_with_new_distance_vectors()
+            self.update_neighbour_with_new_distance_vector()
 
 
-    def update_neighbour_with_new_distance_vectors(self):
+    def update_neighbour_with_new_distance_vector(self):
         """
         Updates neighbors with new distance vectors if the distance vector for the router has changed.
         """
@@ -109,7 +109,7 @@ class RouterNode():
         
         next_node = [self.myID for i in range(self.sim.NUM_NODES)]
 
-        # relax edges |V| - 1 times, maximum number of iterations required to guarantee that the shortest paths are found
+        # maximum number of iterations required to guarantee that the shortest paths are found
         for i in range(self.sim.NUM_NODES - 1):
             for u in range(self.sim.NUM_NODES):
                 for v in range(self.sim.NUM_NODES):
@@ -119,6 +119,8 @@ class RouterNode():
                         distances[v] = distances[u] + self.distance_vector[u][v]
 
                         # determine the next hop based on the shortest path
+                        # if distances[u] is 0, it means that the source node u itself is the destination v,
+                        # so next_node[v] is set to v
                         if distances[u] == 0:
                             next_node[v] = v
 
@@ -197,4 +199,4 @@ class RouterNode():
 
         # check if the cost has been updated after running the bellman ford
         if not self.costs == cost:
-            self.update_neighbour_with_new_distance_vectors()
+            self.update_neighbour_with_new_distance_vector()
